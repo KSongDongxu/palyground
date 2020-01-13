@@ -1,4 +1,6 @@
 #!/bin/bash 
+# 拷贝文件到另外一个文件夹 
+# 排除个别文件或文件夹
 
 src=./hello/
 dst=./world/
